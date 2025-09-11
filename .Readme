@@ -1,0 +1,4 @@
+name =' i am dork slayer and i will find unblocked games'
+line = 'if ur bored go to these sites'
+print(name + ' ' + line)
+print('i dont really know how to code in python but wtf why not')
