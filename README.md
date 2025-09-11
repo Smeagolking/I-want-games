@@ -1,8 +1,15 @@
 # I-want-games
 if u want games come to this site
-[
+(this is for chili games i did not make this and idk who did if u find out msg me i will credit him.)
+
+https://boredmath.github.io/cbf/
+
+Also pls let me know if there are more websites you want me to make alts for.
+
+its a whole lot of alt links for pizza edition
+
+
   "https://artmathandmore.7s.com.tr/",
-  "https://www.youtube.com/",
   "https://discord.gg/",
   "https://coachgerberbabyfood.ignorelist.com/",
   "https://relyt.fpr.net/",
