@@ -1,3 +1,8 @@
+so i figured out this and it should work
+<h>this is for eagler craft<h>
+<h>its pretty much free eagler craft<h>
+
+
 name =' i am dork slayer and i will find unblocked games'
 line = 'if ur bored go to these sites'
 print(name + ' ' + line)
